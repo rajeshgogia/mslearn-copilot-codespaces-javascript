@@ -34,7 +34,6 @@ const siteProps = {
   twitter: "microsoft",
   youTube: "Code",
 };
-};
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
